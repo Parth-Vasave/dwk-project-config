@@ -13,10 +13,10 @@ generators:
 images:
 - name: parthvasave/broadcaster
   newName: asia-south1-docker.pkg.dev/devops-kubernetes-508609/project/broadcaster
-  newTag: 72344745d4a004eb4a505cffd3e0dc6e24805e21
+  newTag: 60d675f01052d3e70d169f4abbb7def3ea8d7ee2
 - name: parthvasave/todo-app
   newName: asia-south1-docker.pkg.dev/devops-kubernetes-508609/project/todo-app
-  newTag: 72344745d4a004eb4a505cffd3e0dc6e24805e21
+  newTag: 60d675f01052d3e70d169f4abbb7def3ea8d7ee2
 - name: parthvasave/todo-backend
   newName: asia-south1-docker.pkg.dev/devops-kubernetes-508609/project/todo-backend
-  newTag: 72344745d4a004eb4a505cffd3e0dc6e24805e21
+  newTag: 60d675f01052d3e70d169f4abbb7def3ea8d7ee2
